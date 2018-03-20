@@ -1,0 +1,46 @@
+body {
+    width: 650px;
+    margin: auto; 
+    border: 2px solid white;
+    background-color:#009999;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+ul {
+    text-align: center;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+figure {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+figcaption{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+header h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-style: bold; 
+}
+ul nav li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+}
+footer {
+    text-align: center;
+}
+.list {
+    color:blueviolet;
+}
+#shedevil {
+    color: red;
+}
